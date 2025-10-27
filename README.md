@@ -49,3 +49,9 @@ mongoose.connect(process.env.URLDB).then(() => {
 - [ ] tarea 3
 - [x] tarea 4
 - [x] tarea 5
+
+> [!NOTE]
+> mensaje de la nota
+
+> [!IMPORTANT]
+> mensaje importante
