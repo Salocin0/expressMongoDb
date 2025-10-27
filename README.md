@@ -12,4 +12,4 @@
 
 [ir a google](https://www.google.com)
 
-![imagen de ejemplo](image.png)
+![imagen de ejemplo](./image.png)
